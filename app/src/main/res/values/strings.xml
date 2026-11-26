@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notas de Contacto</string>
+    <string name="accessibility_service_label">Notas de Contacto</string>
+    <string name="accessibility_service_description">Detecta qué chat de WhatsApp está abierto (solo el nombre o número del encabezado) para mostrar tus notas de ese contacto. No lee mensajes.</string>
+</resources>

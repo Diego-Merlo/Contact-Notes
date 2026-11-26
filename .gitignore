@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine config (SDK path, secrets)
+local.properties
+*.keystore
+*.jks
+keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exported note backups must never be committed
+*.notes.json
+
+# Claude Code (local only)
+CLAUDE.md
+.claude/
+

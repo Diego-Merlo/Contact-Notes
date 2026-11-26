@@ -1,0 +1,4 @@
+<resources>
+    <!-- Window theme only; Compose draws the real UI. -->
+    <style name="Theme.ContactNotes" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
